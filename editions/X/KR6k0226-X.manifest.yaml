@@ -1,0 +1,694 @@
+canonical_identifier: bkk:krp/KR6k0226/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0226/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傳戒正範
+  identifiers:
+    krp: KR6k0226
+    cbeta: X60n1128
+    cbeta_old_id: X60n1128
+    authorityid: CA0000516
+    json_key: X1128
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X60/X60n1128.xml
+    old_id: X60n1128
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0226_000-X.yaml, hash: 'sha256:b19c380524ce630aaf5147cd3adaf2aa508d51037097091934645de9f0b66071'}
+  - {seq: 1, filename: KR6k0226_001-X.yaml, hash: 'sha256:6573e2b2b21de18bd9d399e249e8d7224ae9902de6ac3cf2f14566d1d0f05b39'}
+  - {seq: 2, filename: KR6k0226_002-X.yaml, hash: 'sha256:f68492a71b877e6e4063fb97f7f5ac0c4ff20263a9272bf567826e6816fce63c'}
+  - {seq: 3, filename: KR6k0226_003-X.yaml, hash: 'sha256:10aed0bb5474c3a004ecd0c7c592ab35047f70b0b01cb5a9680efbe2052809b5'}
+  - {seq: 4, filename: KR6k0226_004-X.yaml, hash: 'sha256:c9ae843423eb8ed5950c336c71d6be90ac6eeeec4ff38ab82d1694752e2b74b9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0226_000-X.markers.yaml, hash: 'sha256:4b170ac7d8ad61f5aaf334cf195df3642f68740aec9503fe6ecf8abaef32ef0d'}
+  - {seq: 1, role: markers, filename: assets/KR6k0226_001-X.markers.yaml, hash: 'sha256:d465f0238d74e720a2da0b6c9660a1d9ca1618ea24612a2478b379a43bc666de'}
+  - {seq: 2, role: markers, filename: assets/KR6k0226_002-X.markers.yaml, hash: 'sha256:29b140756cd1b8707a3568f92989c42e747bdfa279fba427b258e24cd6827e34'}
+  - {seq: 3, role: markers, filename: assets/KR6k0226_003-X.markers.yaml, hash: 'sha256:083f4748a7211a14b3dbe1ef17ffa7e11e1774fb6dea9534a90e536889a2da4c'}
+  - {seq: 4, role: markers, filename: assets/KR6k0226_004-X.markers.yaml, hash: 'sha256:f8be2f51e27d453f401c2bda9b0f911ba12cb974418ad54b138220bc6e6e164d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0226_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1128-A 傳戒正範序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0226_X_000-mulu-2
+    span:
+    - front
+    - 483
+    - 483
+  label: 傳戒正範目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0226_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13088
+  label: 三壇傳戒正範卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0226_X_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 初壇授沙彌戒前請戒懺悔儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0226_X_001-mulu-2
+    span:
+    - body
+    - 24
+    - 24
+  label: 淨堂集眾第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0226_X_001-mulu-3
+    span:
+    - body
+    - 397
+    - 397
+  label: 通啟二師第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0226_X_001-mulu-4
+    span:
+    - body
+    - 898
+    - 898
+  label: 請戒開導第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0226_X_001-mulu-5
+    span:
+    - body
+    - 2233
+    - 2233
+  label: 驗衣鉢第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0226_X_001-mulu-6
+    span:
+    - body
+    - 3657
+    - 3657
+  label: 露罪懺悔第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0226_X_001-mulu-7
+    span:
+    - body
+    - 11769
+    - 11769
+  label: 呈罪稱量第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0226_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 9541
+  label: 三壇傳戒正範卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0226_X_002-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 二壇授比丘戒前請戒懺悔儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0226_X_002-mulu-2
+    span:
+    - body
+    - 24
+    - 24
+  label: 習儀第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0226_X_002-mulu-3
+    span:
+    - body
+    - 1062
+    - 1062
+  label: 請戒開導第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0226_X_002-mulu-4
+    span:
+    - body
+    - 3158
+    - 3158
+  label: 通白二師第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0226_X_002-mulu-5
+    span:
+    - body
+    - 3621
+    - 3621
+  label: 教衣鉢第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0226_X_002-mulu-6
+    span:
+    - body
+    - 5124
+    - 5124
+  label: 審戒懺悔第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0226_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 16539
+  label: 三壇傳戒正範卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0226_X_003-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 三壇進菩薩戒前請戒懺悔儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0226_X_003-mulu-2
+    span:
+    - body
+    - 24
+    - 24
+  label: 通啟二師第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0226_X_003-mulu-3
+    span:
+    - body
+    - 718
+    - 718
+  label: 請戒開導第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0226_X_003-mulu-4
+    span:
+    - body
+    - 2590
+    - 2590
+  label: 審戒遮第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0226_X_003-mulu-5
+    span:
+    - body
+    - 15012
+    - 15012
+  label: 開示苦行第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 20425
+  label: 三壇傳戒正範卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 初壇傳授沙彌戒正範
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-2
+    span:
+    - body
+    - 230
+    - 230
+  label: 第一明請師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-3
+    span:
+    - body
+    - 339
+    - 339
+  label: 第二正請師
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-4
+    span:
+    - body
+    - 634
+    - 634
+  label: 第三開導
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-5
+    span:
+    - body
+    - 942
+    - 942
+  label: 第四明請聖
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-6
+    span:
+    - body
+    - 1339
+    - 1339
+  label: 第五懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-7
+    span:
+    - body
+    - 1763
+    - 1763
+  label: 第六問難
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-8
+    span:
+    - body
+    - 1896
+    - 1896
+  label: 第七歸依
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-9
+    span:
+    - body
+    - 2018
+    - 2018
+  label: 第八結歸
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-10
+    span:
+    - body
+    - 2117
+    - 2117
+  label: 第九說戒相
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-11
+    span:
+    - body
+    - 2393
+    - 2393
+  label: 第十聽教囑
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-12
+    span:
+    - body
+    - 2841
+    - 2841
+  label: 二壇傳受比丘戒正範
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-13
+    span:
+    - body
+    - 3499
+    - 3499
+  label: 第一明僧中請師法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-14
+    span:
+    - body
+    - 4186
+    - 4186
+  label: 第二正請師法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-15
+    span:
+    - body
+    - 5144
+    - 5144
+  label: 第三壇主白法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-16
+    span:
+    - body
+    - 5816
+    - 5816
+  label: 第四安受戒者所在
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-17
+    span:
+    - body
+    - 5983
+    - 5983
+  label: 第五差教授法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-18
+    span:
+    - body
+    - 6323
+    - 6323
+  label: 第六教授出眾問難法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-19
+    span:
+    - body
+    - 7925
+    - 7925
+  label: 第七白召入眾法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-20
+    span:
+    - body
+    - 8071
+    - 8071
+  label: 第八明乞戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-21
+    span:
+    - body
+    - 8252
+    - 8252
+  label: 第九羯磨師單白法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-22
+    span:
+    - body
+    - 8350
+    - 8350
+  label: 第十正問難法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-23
+    span:
+    - body
+    - 8849
+    - 8849
+  label: 第十一明授戒體法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-24
+    span:
+    - body
+    - 9655
+    - 9655
+  label: 第十二正受戒體法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-25
+    span:
+    - body
+    - 10221
+    - 10221
+  label: 第十三次說四墮法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-26
+    span:
+    - body
+    - 10789
+    - 10789
+  label: 第十四後授四依法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-27
+    span:
+    - body
+    - 11226
+    - 11226
+  label: 第十五結勸迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-28
+    span:
+    - body
+    - 11889
+    - 11889
+  label: 三壇傳授菩薩戒正範
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-29
+    span:
+    - body
+    - 12235
+    - 12235
+  label: 第一明敷座結壇法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-30
+    span:
+    - body
+    - 12506
+    - 12506
+  label: 第二明請師入壇法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-31
+    span:
+    - body
+    - 13342
+    - 13342
+  label: 第三明禮敬三寶法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-32
+    span:
+    - body
+    - 13705
+    - 13705
+  label: 第四明正請師法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-33
+    span:
+    - body
+    - 13931
+    - 13931
+  label: 第五明開導戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-34
+    span:
+    - body
+    - 14107
+    - 14107
+  label: 第六明請聖法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-35
+    span:
+    - body
+    - 14613
+    - 14613
+  label: 第七受四不壞信
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-36
+    span:
+    - body
+    - 14978
+    - 14978
+  label: 第八懺悔過法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-37
+    span:
+    - body
+    - 15245
+    - 15245
+  label: 第九明發願法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-38
+    span:
+    - body
+    - 15770
+    - 15770
+  label: 第十明發戒體法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-39
+    span:
+    - body
+    - 15949
+    - 15949
+  label: 次正授戒體法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-40
+    span:
+    - body
+    - 16209
+    - 16209
+  label: 第十一明宣戒相法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-41
+    span:
+    - body
+    - 18293
+    - 18293
+  label: 第十二結讚回向
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0226_X_004-mulu-42
+    span:
+    - body
+    - 19527
+    - 19527
+  label: No. 1128-B 覺源禪師與本師借庵老和尚論傳戒書
+  type: mulu
+  level: 1
+hash: sha256:52c0eef2ad89d8c87e5d2dd5757b0540ff1cd735473fbc17b17308a71827af79
