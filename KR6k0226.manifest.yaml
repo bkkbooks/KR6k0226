@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0226_000.yaml, hash: 'sha256:11f01894ac428bb7405b8c718c0242c32c82fa4cd03b0ad7774bce5b558611f1'}
+  - {seq: 0, filename: KR6k0226_000.yaml, hash: 'sha256:32295d0799b8eafbc8df2eaa0b4d9f082174890c99346008c7aa10a0b6d960ca'}
   - {seq: 1, filename: KR6k0226_001.yaml, hash: 'sha256:bdde90617e45a0cabe3187dabc98a70c308b7926d413755c35519f719c79d775'}
   - {seq: 2, filename: KR6k0226_002.yaml, hash: 'sha256:f7bc6a717b81804713392cb94131f1f2d794c3f4730dc1ea0ce0d3fdb782d649'}
   - {seq: 3, filename: KR6k0226_003.yaml, hash: 'sha256:e661da9e8599bc59d7fc47ad92880d45a66ddde53d95c785281625aedd56dabc'}
   - {seq: 4, filename: KR6k0226_004.yaml, hash: 'sha256:f03f2dc1b6fa408414191d46aa8a3c6c0b3343590c4abf17a3ce9d10dc6b3946'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0226_000.markers.yaml, hash: 'sha256:97d5d6191f1af986783403d7cfd0b616974f56c16cb71b9d0a7c266c948ac815'}
+  - {seq: 0, role: markers, filename: assets/KR6k0226_000.markers.yaml, hash: 'sha256:5255e8b88f7c4366e69ef95ba9e65a110e092054c8d9ab57b76f168ecdb9f8a8'}
   - {seq: 1, role: markers, filename: assets/KR6k0226_001.markers.yaml, hash: 'sha256:016bbded097d5f60ad69db7b21db43de376f6253120bcfb42582e26c7d636764'}
   - {seq: 2, role: markers, filename: assets/KR6k0226_002.markers.yaml, hash: 'sha256:5643e2061ede951b1ecc1abb943a4faf5c5d0df7685c04d94291f946ed27fcde'}
   - {seq: 3, role: markers, filename: assets/KR6k0226_003.markers.yaml, hash: 'sha256:820200db3750369331aa81fecad4faeae2bf057cf2279f1695f9142ccf2a3791'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0226_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1128-A 傳戒正範序
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0226_X_000-mulu-2
     span:
-    - front
+    - body
     - 483
     - 483
   label: 傳戒正範目錄
@@ -693,7 +693,7 @@ table_of_contents:
   label: No. 1128-B 覺源禪師與本師借庵老和尚論傳戒書
   type: mulu
   level: 1
-hash: sha256:4aeb7626859d24b47cdd73515d6a50c3d799c17421d08791c1f4024f0a4e22d9
+hash: sha256:ad32aadb639f42061c4ae80f6cbb197096b988ec342b71e8119ad20cec996ac9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
